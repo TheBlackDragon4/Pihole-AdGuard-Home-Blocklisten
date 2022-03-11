@@ -1,0 +1,16 @@
+#Pi-Hole Blockliste für Hentai Webseiten
+
+myhentaigallery.com
+www.myhentaigallery.com
+myhentaicomics.com
+www.myhentaicomics.com
+myhentaigrid.com
+www.myhentaigrid.com
+mymangacomics.com
+www.mymangacomics.com
+myhentaimovie.com
+www.myhentaimovie.com
+myrule34.com
+www.myrule34.com
+
+

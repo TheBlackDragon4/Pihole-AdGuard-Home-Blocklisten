@@ -1,0 +1,113 @@
+#Pi-Hole Whitelisten für bestimmter Software und Webseiten
+
+
+# Sonstiges
+todoist.com	
+events.gfe.nvidia.com	
+nvidia.com	
+mycampus.hs-coburg.de	
+www3.primuss.de	
+sony.com
+sony.de
+validator.w3.org
+hs-coburg.de
+www.github.com
+id.atlassian.com
+slack.com
+slack.de
+
+# Amazon
+www.amazon.de
+
+# Google
+accounts.google.com	
+www.google.de	
+www.google.com	
+googleusercontent.com
+drive.google.com
+clients4.google.com
+clients2.google.com
+s.youtube.com
+video-stats.l.google.com
+android.clients.google.com
+0.client-channel.google.com
+2.android.pool.ntp.org
+appspot-preview.l.google.com
+reminders-pa.googleapis.com
+firestore.googleapis.com
+googleapis.l.google.com
+dl.google.com
+
+# Microsoft
+microsoft.com	
+microsoft.de
+microsoft-shop.de
+outlook.office365.com	
+login.live.com
+login.microsoftonline.com
+products.office.com
+officeclient.microsoft.com
+a-msedge.net
+slscr.update.microsoft.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+www.msftncsi.com
+msftncsi.com
+ipv6.msftncsi.com
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+g.live.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+
+# Skype
+s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+ui.skype.com
+pricelist.skype.com
+apps.skype.com
+m.hotmail.com
+sa.symcb.com
+s{1..5}.symcb.com
+
+# Microsoft Office
+officeclient.microsoft.com
+
+# Bing
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+
+
+# Apple
+itunes.apple.com
+s.mzstatic.com
+appleid.apple.com
+captive.apple.com
+gsp1.apple.com
+www.apple.com
+www.appleiphonecell.com
+itunes.apple.com
+s.mzstatic.com
+
+# Nvidia
+gfwsl.geforce.com
+
+# Links / Apps
+www.bit.ly
+bit.ly
+ow.ly
+tinyurl.com
+adfoc.us
+
+# Dropbox
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+

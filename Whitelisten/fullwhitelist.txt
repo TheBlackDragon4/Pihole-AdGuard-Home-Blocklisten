@@ -6,7 +6,7 @@
 #
 #->Webseiten & Platformen wie z.B. Windows <-
 #
-#Google
+#Google########################################################################################
 clients1.google.com
 clients2.google.com
 clients3.google.com
@@ -35,7 +35,7 @@ connectivitycheck.android.com
 redirector.gvt1.com
 webcache.googleusercontent.com
 #
-#YouTube History
+#YouTube History###############################################################################
 #
 s.youtube.com
 video-stats.l.google.com
@@ -46,29 +46,27 @@ i1.ytimg.com
 i.ytimg.com
 s2.youtube.com
 #
-#Google Play
+#Google Play###################################################################################
 #
 play.google.com
 android.clients.google.com
 0.client-channel.google.com
 2.android.pool.ntp.org 	
 #
-#Moto phones OS updates
+#Moto phones OS updates########################################################################
 #
 appspot-preview.l.google.com
 #
-#Google Keep
+#Google Keep###################################################################################
 #
 reminders-pa.googleapis.com
 firestore.googleapis.com
 #
-#Gmail (Google Mail)
+#Gmail (Google Mail)###########################################################################
 #
 googleapis.l.google.com
 #
-#Microsoft
-#
-#Windows 10 Updates
+#Windows 10 Updates############################################################################
 #
 a-msedge.net
 slscr.update.microsoft.com
@@ -80,14 +78,14 @@ dl.delivery.mp.microsoft.com
 ctldl.windowsupdate.com
 displaycatalog.mp.microsoft.com
 #
-#Windows 10 â€“ Internet Verbindungs PrÃ¼fung
+#Windows 10 â€“ Internet Verbindungs PrÃ¼fung##################################################
 #
 www.msftncsi.com
 msftncsi.com
 ipv6.msftncsi.com
 dns.msftncsi.com
 #
-#Microsoft Web Pages (Outlook, Office365, Live,Microsoft.com)
+#Microsoft Web Pages (Outlook, Office365, Live,Microsoft.com)##################################
 #
 outlook.office365.com
 products.office.com
@@ -99,6 +97,7 @@ officeclient.microsoft.com
 onedrive.live.com
 aka.ms
 forms.office.com
+sway.office.com
 mobile.pipe.aria.microsoft.com
 browser.events.data.microsoft.com
 nexusrules.officeapps.live.com
@@ -113,30 +112,29 @@ s.gateway.messenger.live.com
 #
 #Backup Bitlocker recovery Key zu Microsoft
 #
-g.live.com
+g.live.com#####################################################################################
 #
-#Microsoft Store (Windows Store)
+#Microsoft Store (Windows Store)###############################################################
 #
 dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 #
-#Xbox Live
+#Xbox Live#####################################################################################
 #
 clientconfig.passport.net
 #
-#Domains die fÃ¼r Xbox Live Achievments genutzt werden (von Microsoft bestÃ¤tigt)
+#Domains die fÃ¼r Xbox Live Achievments genutzt werden (von Microsoft bestÃ¤tigt)##############
 #
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 #
-#Xbox Live Messaging
+#Xbox Live Messaging###########################################################################
 #
 client-s.gateway.messenger.live.com
 #
-#Weitere Domains die fÃ¼r die volle FunktionalitÃ¤t von Xbox Live nÃ¶tig sind
+#Weitere Domains die fÃ¼r die volle FunktionalitÃ¤t von Xbox Live nÃ¶tig sind##################
 #
-
 xbox.ipv6.microsoft.com
 device.auth.xboxlive.com
 www.msftncsi.com
@@ -158,7 +156,7 @@ www.xboxlive.com
 v10.vortex-win.data.microsoft.com
 settings-win.data.microsoft.com
 #
-#Skype
+#Skype#########################################################################################
 #
 s.gateway.messenger.live.com
 client-s.gateway.messenger.live.com
@@ -173,14 +171,14 @@ s4.symcb.com
 s5.symcb.com
 s1.symcb.com
 #
-#Bing Maps Platform
+#Bing Maps Platform############################################################################
 #
 dev.virtualearth.net
 ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 #
-#Apple
+#Apple#########################################################################################
 #
 itunes.apple.com
 s.mzstatic.com
@@ -236,23 +234,23 @@ mdmenrollment.apple.com
 setup.icloud.com
 vpp.itunes.apple.com
 #
-#Nvidia
+#Nvidia########################################################################################
 #
 gfwsl.geforce.com
 events.gfe.nvidia.com
 ota-downloads.nvidia.com
 #
-#Samsung
+#Samsung#######################################################################################
 #
 cdn.samsungcloudsolution.com
 #
-#Canon
+#Canon#########################################################################################
 #
 gdlp01.c-wss.com
 #
 #->Websites / Apps<-
 #
-#Link Shortner
+#Link Shortner#################################################################################
 #
 www.bit.ly
 bit.ly
@@ -267,20 +265,20 @@ www.ow.ly
 amzn.to
 amzn.com
 #
-#Dropbox
+#Dropbox#######################################################################################
 #
 dl.dropboxusercontent.com
 ns1.dropbox.com
 ns2.dropbox.com
 dl.dropbox.com
 #
-#Spiegel.de
+#Spiegel.de####################################################################################
 #
 sourcepoint.mgr.consensu.org
 spiegel-de.spiegel.de
 fsm2.spiegel.de
 #
-#coinbase.com
+#coinbase.com##################################################################################
 #
 www.coinbase.com
 assets.coinbase.com
@@ -293,24 +291,24 @@ events-service.coinbase.com
 sessions.coinbase.com
 images.coinbase.com
 #
-#www.blogads.com
+#www.blogads.com###############################################################################
 #
 www.blogads.com
 #
-#Cookiebot
+#Cookiebot#####################################################################################
 #
 www.cookiebot.com
 #
-#NameCheap.com
+#NameCheap.com#################################################################################
 #
 www.namecheap.com
 #
-#Uber
+#Uber##########################################################################################
 #
 email.uber.com
 uber.com
 #
-#Referral Seiten
+#Referral Seiten###############################################################################
 #
 m.exactag.com
 mydealz.digidip.net
@@ -413,7 +411,7 @@ shareasale-analytics.com
 www.kqzyfj.com
 go.skimresources.com
 #
-#Bild.de
+#Bild.de#######################################################################################
 #
 #ec-ns.sascdn.com
 #cdn1.smartadserver.com
@@ -425,7 +423,7 @@ go.skimresources.com
 #script.ioam.de
 #tags.tiqcdn.com
 #
-#Facebook
+#Facebook######################################################################################
 #
 scontent.xx.fbcdn.net
 connect.facebook.net
@@ -459,7 +457,7 @@ fb.me
 bigzipfiles.facebook.com
 l.facebook.com
 #
-#Twitter
+#Twitter#######################################################################################
 #
 analytics.twitter.com
 pbs.twimg.com
@@ -468,14 +466,14 @@ t.co
 platform.twitter.com
 syndication.twitter.com
 #
-#Ebay
+#Ebay##########################################################################################
 #
 srv.de.ebayrtm.com
 gha.ebay.de
 pulsar.ebay.de
 rover.ebay.com
 #
-#Github
+#Github########################################################################################
 #
 alive.github.com
 collector-cdn.github.com
@@ -491,16 +489,20 @@ githubusercontent.com
 raw.githubusercontent.com
 gitter.im
 #
-#giphy.com
+#Jotform#######################################################################################
+form.jotform.com
 #
-#giphy.com
+#Synology######################################################################################
 #
-#Mozilla
+synology.de
+synology.com
+#
+#Mozilla#######################################################################################
 #
 addons.mozilla.org
 tracking-protection.cdn.mozilla.net
 #
-#TheMoneytizer Admin
+#TheMoneytizer Admin###########################################################################
 #
 #de.themoneytizer.com
 #www.themoneytizer.com
@@ -510,38 +512,38 @@ tracking-protection.cdn.mozilla.net
 #ru.themoneytizer.com
 #us.themoneytizer.com
 #
-#Reddit
+#Reddit########################################################################################
 #
 #alb.reddit.com
 #click.redditmail.com
 #
-#Envato Market
+#Envato Market#################################################################################
 #
-#1.envato.market
+#1.envato.market###############################################################################
 #assets.banners.envato-static.com
 #codecanyon.img.customer.envatousercontent.com
 #
-#ARD Mediathek
+#ARD Mediathek#################################################################################
 #
 image.ard.de
 #
-#Shopify
+#Shopify#######################################################################################
 #
 cdn.shopify.com
 #
-#Jimdo
+#Jimdo#########################################################################################
 #
 logo.e.jimdo.com
 #
-#Sourceforge
+#Sourceforge###################################################################################
 #
 sourceforge.net
 #
-#Adobe
+#Adobe#########################################################################################
 #
 assets.adobedtm.com
 #
-#Pinterest
+#Pinterest#####################################################################################
 #
 www.pinterest.
 accounts.pinterest.com
@@ -549,11 +551,11 @@ i.pinimg.com
 analytics.pinterest.com
 post.pinterest.com
 #
-#Shopping
+#Shopping######################################################################################
 #
 de.redbrain.shop
 #
-#Wordpress (Automattic)
+#Wordpress (Automattic)########################################################################
 #
 s0.wp.com
 s1.wp.com
@@ -562,7 +564,7 @@ i0.wp.com
 i2.wp.com
 wp.com
 #
-#hackaday.com
+#hackaday.com##################################################################################
 #
 hackaday.com
 hackadaycom.files.wordpress.com
@@ -570,11 +572,11 @@ use.typekit.net
 p.typekit.net
 search.supplyframe.com
 #
-#GoDaddy
+#GoDaddy#######################################################################################
 #
-#imagesak.secureserver.net
+#imagesak.secureserver.net#####################################################################
 #
-#Videos: Times.com /nydailynews.com / cnn App Images
+#Videos: Times.com /nydailynews.com / cnn App Images###########################################
 delivery.vidible.tv
 img.vidible.tv
 videos.vidible.tv
@@ -582,11 +584,11 @@ edge.api.brightcove.com
 cdn.vidible.tv
 dynaimage.cdn.turner.com
 #
-#Red Hat Online Learning
+#Red Hat Online Learning#######################################################################
 #
-#79423.analytics.edgekey.net
+#79423.analytics.edgekey.net###################################################################
 #
-#Twich
+#Twich#########################################################################################
 #
 s.amazon-adsystem.com
 c.amazon-adsystem.com
@@ -594,27 +596,27 @@ countess.twitch.tv
 pubsub-edge.twitch.tv
 cdn-gl.imrworldwide.com
 #
-#Weather.com
+#Weather.com###################################################################################
 #
 v.w-x.co
 #
-#Kickstarter
+#Kickstarter###################################################################################
 #
 www.kickstarter.com
 static.kickstarter.com
 #
-#No-IP
+#No-IP#########################################################################################
 #
 #www.no-ip.com
 #dynupdate.no-ip.com
 #
-#-> Apps <-
+#-> Apps <-####################################################################################
 #
-#Snapchat
+#Snapchat######################################################################################
 #
 app-analytics.snapchat.com
 #
-#Sonarr
+#Sonarr########################################################################################
 #
 apt.sonarr.tv
 download.sonarr.tv
@@ -622,27 +624,27 @@ forums.sonarr.tv
 services.sonarr.tv
 skyhook.sonarr.tv
 #
-#Burger King
+#Burger King###################################################################################
 #
 #rest.iad-03.braze.com
 #
-#Adobe licence verification endpoints
+#Adobe licence verification endpoints##########################################################
 #
 lm.licenses.adobe.com
 activate.adobe.com
 #
-#streamelements.com (Blocked by Pi-hole regex)
+#streamelements.com (Blocked by Pi-hole regex)#################################################
 #
 stats.streamelements.com
 #
-#Nest Doorbell
+#Nest Doorbell#################################################################################
 #
 nexus.dropcam.com
 oculus4395-us1.dropcam.com
 #
-#->Content Delivery<-
+#->Content Delivery<-##########################################################################
 #
-#Amazon
+#Amazon########################################################################################
 #
 s3.amazonaws.com
 s3-eu-west-1.amazonaws.com
@@ -656,26 +658,26 @@ cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 #
-#Jsdelivr
+#Jsdelivr######################################################################################
 #
 cdn.jsdelivr.net
 www.jqueryscript.net
 #
-#optimizely
+#optimizely####################################################################################
 #
 #cdn.optimizely.com
 #cdn2.optimizely.com
 #cdn3.optimizely.com
 #cdn.embedly.com
 #
-#Cloudflare
+#Cloudflare####################################################################################
 #
 #cdnjs.cloudflare.com
 #cloudflare.com
 #info.cloudflare.com
 #cdn.cloudflare.net
 #
-#Akamai
+#Akamai########################################################################################
 #
 #akamaihd.net
 #akamaitechnologies.com
@@ -686,26 +688,26 @@ www.jqueryscript.net
 #a463.w10.akamai.net
 #a790.w16.akamai.net
 #
-#->Games / Gaming<-
+#->Games / Gaming<-############################################################################
 #
-#Ubisoft
+#Ubisoft#######################################################################################
 #
 ubisoft-uplay-savegames.s3.amazonaws.com
 #
-#Grand Theft Auto V Online PC
+#Grand Theft Auto V Online PC##################################################################
 #
 prod.telemetry.ros.rockstargames.com
 #
-#HayDay (Handyspiel)
+#HayDay (Handyspiel)###########################################################################
 #
 #game-assets.haydaygame.com
 #game.haydaygame.com
 #
-#Epic Games Store
+#Epic Games Store##############################################################################
 #
 tracking.epicgames.com
 #
-#EA / Origin
+#EA / Origin###################################################################################
 #
 cdn.optimizely.com
 s.shopify.com
@@ -715,7 +717,7 @@ heartbeat.dm.origin.com
 activity.windows.com
 ea.com
 #
-#Sony / Playstation
+#Sony / Playstation############################################################################
 #
 account.np.ac.playstation.net
 smetrics.aem.playstation.com
@@ -723,7 +725,7 @@ telemetry-console.api.playstation.com
 #
 #->Streaming<-
 #
-#Spotify
+#Spotify#######################################################################################
 #
 spclient.wg.spotify.com
 apresolve.spotify.com
@@ -735,7 +737,7 @@ api-tv.spotify.com
 upgrade.scdn.com
 audio-ake.spotify.com.edgesuite.net
 #
-#Netflix
+#Netflix#######################################################################################
 #
 ichnaea.netflix.com
 appboot.netflix.com
@@ -743,7 +745,7 @@ api-global.netflix.com
 stats.streamelements.com
 netflix.com
 #
-#Disney+
+#Disney+#######################################################################################
 #
 sanalytics.disneyplus.com
 fkp.samsungcloudsolution.com
@@ -755,11 +757,11 @@ cdn.registerdisney.go.com
 content.global.edge.bamgrid.com
 prod-ripcut-delivery.disney-plus.net
 #
-#Amazon Prime
+#Amazon Prime##################################################################################
 #
 #Fire TV Stick
 #
-#Adult Swim Videos on Amazon Firestick
+#Adult Swim Videos on Amazon Firestick#########################################################
 #
 pmd.cdn.turner.com
 i.cdn.turner.com
@@ -767,11 +769,11 @@ s.cdn.turner.com
 z.cdn.turner.com
 amd.cdn.turner.com
 #
-#Samsung TV's Amazon Prime Video app
+#Samsung TV's Amazon Prime Video app###########################################################
 #
 time.samsungcloudsolution.com
 #
-#Plex.tv
+#Plex.tv#######################################################################################
 #
 plex.tv
 tvdb2.plex.tv
@@ -803,6 +805,4 @@ themoviedb.com
 #
 www.bit.ly
 www.bitly.com
-
-
 

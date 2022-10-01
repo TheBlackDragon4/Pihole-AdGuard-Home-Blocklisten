@@ -1,7 +1,7 @@
 #Pi-Hole whitelists for certain software and websites
 
 
-# Sonstiges
+# others
 todoist.com	
 events.gfe.nvidia.com	
 nvidia.com	

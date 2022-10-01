@@ -12,13 +12,9 @@ Here you can also find an overview of useful blocklists for the Pi-hole, which c
 ## Standard blocklists for PiHole
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://mirror1.malwaredomains.com/files/justdomains - does not work
 https://sysctl.org/cameleon/hosts (ohne SSL)
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist - does not work
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://hosts-file.net/ad_servers.txt - does not work
-
 
 
 ## Advertisements
@@ -82,7 +78,6 @@ The Win10Telemetry list blocks the domains to which Windows 10 sends its data. I
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 
 
-
 ## MS Office Telemetry
 
 This list blocks the telemetry domains of Microsoft Office.
@@ -90,13 +85,11 @@ This list blocks the telemetry domains of Microsoft Office.
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 
 
-
 ## Samsung Telemetry
 
 The Samsungblocklist blocks domains that are used to retrieve statistics, for example. It is therefore comparable with the Win10Telemetry list.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
-
 
 
 ## Suspicious pages
@@ -124,7 +117,6 @@ https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-
 https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt
 
 
-
 ## Fake streaming and debt collection
 
 This blocklist blocks streaming services that supposedly provide movies after you have registered. A few days later, a payment demand follows with reference to debt collection companies. This is so legally but not tenable.
@@ -138,23 +130,15 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 
 https://www.technoy.de/lists/malware2.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt - does not work
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malware/list.txt - does not work
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomainlist.com/list.txt
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt - does not work
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-justdomains/list.txt - does not work
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt - does not work
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
 
 
-
 ## Ransomeware
 
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
-
-
 
 
 ## Streaming Blocklisten
@@ -164,11 +148,9 @@ The Streaming List blocks dubious streaming services, including subscription tra
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 
 
-
 ## Porno Blocklisten
 
 https://github.com/TheBlackDragon4/Jugendschutz/porno.txt
-
 
 
 ## Fake-Science
@@ -178,13 +160,11 @@ Under the Fake Science list, websites of Predatory Publishers a.k.a Fake Science
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
 
 
-
 ## CORONA Blocklisten
 
 This blocklist blocks some pages that contain, for example, false information.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
-
 
 
 ## Phishing-Angriffe
@@ -198,17 +178,14 @@ http://phishing.mailscanner.info/phishing.bad.sites.conf
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
 
 
-
 ## Social media advertising block lists
 
 https://github.com/TheBlackDragon4/Jugendschutz/porno.txt
-
 
 
 # Whitelists 
 
 https://www.technoy.de/lists/whitelist.txt
 https://github.com/TheBlackDragon4/Whitelisten/fullwhitelist.txt
-
 
 

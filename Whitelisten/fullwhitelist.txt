@@ -1,5 +1,4 @@
 #
-#Whitelist with recommended entries
 #Whitelist with recommended entries 
 #
 #Technoy.com/lists/whitelist.txt

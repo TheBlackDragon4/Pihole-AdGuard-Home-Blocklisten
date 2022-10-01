@@ -11,10 +11,10 @@ Here you can also find an overview of useful blocklists for the Pi-hole, which c
 
 ## Standard blocklists for PiHole
 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://sysctl.org/cameleon/hosts (ohne SSL)
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts <br>
+https://sysctl.org/cameleon/hosts (ohne SSL) <br>
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt <br>
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt <br>
 
 
 ## Advertisements
@@ -22,20 +22,20 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 These advertising lists block any advertising on the vast majority of websites. 
 This is at least the case for me on the sites I visit.
 
-https://adaway.org/hosts.txt
-https://v.firebog.net/hosts/AdguardDNS.txt
-https://v.firebog.net/hosts/Admiral.txt
-https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://v.firebog.net/hosts/Easylist.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt
-https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
-https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
-https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
+https://adaway.org/hosts.txt <br>
+https://v.firebog.net/hosts/AdguardDNS.txt <br>
+https://v.firebog.net/hosts/Admiral.txt <br>
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt <br>
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt <br>
+https://v.firebog.net/hosts/Easylist.txt <br>
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext <br>
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts <br>
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts <br>
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts <br> 
+https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt <br>
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt <br>
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt <br>
+https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt <br>
 
 
 
@@ -186,6 +186,7 @@ https://github.com/TheBlackDragon4/Jugendschutz/porno.txt
 # Whitelists 
 
 https://www.technoy.de/lists/whitelist.txt
-https://github.com/TheBlackDragon4/Whitelisten/fullwhitelist.txt
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Whitelisten/fullwhitelist.txt
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Whitelisten/personalwhitelist.txt
 
 

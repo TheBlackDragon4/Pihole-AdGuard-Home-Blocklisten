@@ -1,4 +1,4 @@
-#Pi-Hole Blockliste für Porno Webseiten
+#Pi-Hole blocklist for porn websites
 
 xhamster.xxx
 www.xhamster.xxx

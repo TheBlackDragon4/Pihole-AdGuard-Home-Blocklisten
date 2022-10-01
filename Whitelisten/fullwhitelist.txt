@@ -1,10 +1,10 @@
 #
 #Whitelist with recommended entries
-#Whitelist mit Empfohlenen EintrÃ¤gen 
+#Whitelist with recommended entries 
 #
-#Technoy.de/lists/whitelist.txt
+#Technoy.com/lists/whitelist.txt
 #
-#->Webseiten & Platformen wie z.B. Windows <-
+#->Websites & platforms like Windows <-
 #
 #Google########################################################################################
 clients1.google.com

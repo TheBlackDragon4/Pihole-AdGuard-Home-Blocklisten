@@ -1,4 +1,4 @@
-#Pi-Hole Whitelisten für bestimmter Socialen Medien und Webseiten
+#Pi-Hole whitelists for certain social media and websites
 
 www.instagram.com
 skype.com	

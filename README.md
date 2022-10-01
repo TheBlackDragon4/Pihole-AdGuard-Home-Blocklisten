@@ -1,30 +1,30 @@
 
-# pihole-blocklisten
-Eigene PiHole-Blocklisten
+# pihole-blocklists
+Custom PiHole blocklists
 
-Diesen GitHub Eintrag erstelle ich, um meine neuen Kenntnisse mit euch zu teilen. 
-Hier erhebe ich keine Anspruch auf Vollständigkeit.
+I create this GitHub entry to share my new knowledge with you. 
+Here I do not claim to be complete.
 
-Hier findet sich außerdem eine Übersichliche Auflistung nützlicher Blocklisten für den Pi-hole, die noch zusätzlich installiert werden können. Unter den Beschreibungen finden sich die URLs die Unter Blocklist eingebunden werden muss. Es gibt eine gute Auswahl sodass sich jeder das herrausuchen kann, was er benötigt.
+Here you can also find an overview of useful blocklists for the Pi-hole, which can be installed additionally. Under the descriptions you will find the URLs that must be included under blocklist. There is a good selection so that everyone can pick out what he needs.
 
 
 
-## Standard Blocklisten für PiHole
+## Standard blocklists for PiHole
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://mirror1.malwaredomains.com/files/justdomains
+https://mirror1.malwaredomains.com/files/justdomains - does not work
 https://sysctl.org/cameleon/hosts (ohne SSL)
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist 
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist - does not work
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://hosts-file.net/ad_servers.txt
+https://hosts-file.net/ad_servers.txt - does not work
 
 
 
-## Werbungen
+## Advertisements
 
-Diese Werbelisten sperren soweit jegliche Werbung auf den allermeisten Websites. 
-Ist zu mindest bei mir auf meinen besuchten Seiten erfolgt.
+These advertising lists block any advertising on the vast majority of websites. 
+This is at least the case for me on the sites I visit.
 
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
@@ -43,24 +43,24 @@ https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlis
 
 
 
-## Exotischere Webseiten
+## More exotic websites
 
-Mithilfe dieser Blockliste werden einige exotischern Werbe Domains blockiert.
-Diese Anbieter zeichnen sich durch "Windows Needs Updates" Popups und Unseriösen dingen aus
+With the help of this blocklist, some exotic advertising domains are blocked.
+These providers are characterized by "Windows Needs Updates" pop-ups and unserious things
 
 https://github.com/TheBlackDragon4/pihole-blocklisten/blob/main/Sonstiges/exotischer.txt
 
 
 
-## FireTV Werbung Blockieren
+## FireTV Block Ads
 
-Mithilfe dieser Blockliste werden Werbungen von einem Amazon Fire TV Stick blockiert
+Using this block list to block ads from an Amazon Fire TV Stick
 
 https://github.com/TheBlackDragon4/Sonstiges/firetv.txt
 
 
 
-## Tracking von verschiedenen Telemetry Listen
+## Tracking of different telemetry lists
 
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.t
 
 ## Win10Telemetry
 
-Die Win10Telemetry Liste sperrt die Domains an die Windows 10 ihre Daten sendet. Sie sorgt dafür das Microsoft weniger Daten über Sie erhält. Und das Ohne spürbare Einschränkungen. Die Liste wird von dem YouTube Kanal SemperVideo zur Verfügung gestellt.
+The Win10Telemetry list blocks the domains to which Windows 10 sends its data. It ensures that Microsoft receives less data about you. And without any noticeable restrictions. The list is provided by the YouTube channel SemperVideo.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telem
 
 ## MS Office Telemetry
 
-Diese Liste Blockt die Telemetrie Domains von Microsoft Office.
+This list blocks the telemetry domains of Microsoft Office.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 
@@ -93,15 +93,15 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-
 
 ## Samsung Telemetry
 
-Die Samsungblocklist blockt Domains über die z.B. Statistiken abgerufen werden. Sie ist also mit der Win10Telemetry Liste zu vergleichen.
+The Samsungblocklist blocks domains that are used to retrieve statistics, for example. It is therefore comparable with the Win10Telemetry list.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
 
 
 
-## Verdächtige Seiten
+## Suspicious pages
 
-Mit dieser Blockliste werden Verdächtige Seiten Blockiert, die vorgeben eine andere Webseite zu sein, oder welche bei der Viren entdeckt wurden.
+This block list is used to block suspicious pages that pretend to be another website or that have been detected with viruses.
 
 https://www.technoy.de/lists/Suspicious.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
@@ -125,25 +125,25 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt
 
 
 
-## Fake Streaming und Inkasso
+## Fake streaming and debt collection
 
-Diese Blocklist sperrt Streaming Dienste die vermeindlich Filme zur verfügung stellen nach dem man sich regestriert hat. Einige Tage später folgt eine Zahlungforderung mit verweis auf Inkasso Unternehmen. Diese ist so rechtlich aber nicht haltbar.
+This blocklist blocks streaming services that supposedly provide movies after you have registered. A few days later, a payment demand follows with reference to debt collection companies. This is so legally but not tenable.
 
 https://github.com/TheBlackDragon4/Sonstiges/fakestreaming.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 
 
 
-## Malware Blocklisten
+## Malware Blocklists
 
 https://www.technoy.de/lists/malware2.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malware/list.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt - does not work
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malware/list.txt - does not work
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomainlist.com/list.txt
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-justdomains/list.txt
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt - does not work
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-justdomains/list.txt - does not work
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt - does not work
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
@@ -159,7 +159,7 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
 
 ## Streaming Blocklisten
 
-Die Streaming Liste sperrt unseriöse Streaming-Diensten, inkl. Abo-Falle.
+The Streaming List blocks dubious streaming services, including subscription traps.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 
@@ -173,7 +173,7 @@ https://github.com/TheBlackDragon4/Jugendschutz/porno.txt
 
 ## Fake-Science
 
-Unter der Fake-Science Liste werden Websites von Predatory Publishers a.k.a Fake Science geblockt. Predatory Publishing, deutsch etwa „räuberisches Veröffentlichen“, ist ein betrügerisches Geschäftsmodell bestimmter Open-Access-Verlage. 
+Under the Fake Science list, websites of Predatory Publishers a.k.a Fake Science are blocked. Predatory publishing is a fraudulent business model used by certain open access publishers. 
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
 
@@ -181,7 +181,7 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Scien
 
 ## CORONA Blocklisten
 
-Diese Blocklist sperrt einige Seiten die z.B. Falschinformationen beinhalten.
+This blocklist blocks some pages that contain, for example, false information.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
 
@@ -189,7 +189,7 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
 
 ## Phishing-Angriffe
 
-Unter Phising versteht man den versuch an Daten zu kommen in dem man z.B. eine Anmelde-Seite fälscht. Bekannte Phishing Domains werden mit dieser Liste gesperrt.
+Phising is the attempt to obtain data by forging a registration page, for example. Known phishing domains are blocked with this list.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
@@ -199,7 +199,7 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
 
 
 
-## Social Media Werbung Blocklisten
+## Social media advertising block lists
 
 https://github.com/TheBlackDragon4/Jugendschutz/porno.txt
 

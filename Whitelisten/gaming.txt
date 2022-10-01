@@ -1,6 +1,6 @@
-#Pi-Hole Whitelisten für bestimmter Gaming Webseiten
+#Pi-Hole whitelists for certain gaming websites
 
-# Sonstiges für Spiele
+#Other for games
 discord.com
 www.warframe.com	
 clientconfig.passport.net

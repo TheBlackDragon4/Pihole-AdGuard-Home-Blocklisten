@@ -1,4 +1,4 @@
-#Pi-Hole Whitelisten für bestimmter Streaming Diensten und Webseiten
+#Pi-Hole whitelists for certain streaming services and websites
 
 # Netflix
 www.netflix.com

@@ -1,4 +1,4 @@
-# Pi-Hole Blockliste für exotischere Webseiten
+# Pi-Hole blocklist for more exotic websites
 
 wrison-subustall.com
 eu-adsrv.rtbsuperhub.com

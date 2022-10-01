@@ -1,4 +1,4 @@
-#Pi-Hole Whitelisten für bestimmter Software und Webseiten
+#Pi-Hole whitelists for certain software and websites
 
 
 # Sonstiges

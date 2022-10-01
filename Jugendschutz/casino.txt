@@ -1,4 +1,4 @@
-#Pi-Hole Blockliste für Online Casinos und Wett Webseiten
+#Pi-Hole blocklist for online casinos and betting websites
 
 hyperino.com
 www.hyperino.com

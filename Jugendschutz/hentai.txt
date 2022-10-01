@@ -1,4 +1,4 @@
-#Pi-Hole Blockliste für Hentai Webseiten
+#Pi-Hole Blocklist for Hentai Websites
 
 myhentaigallery.com
 www.myhentaigallery.com

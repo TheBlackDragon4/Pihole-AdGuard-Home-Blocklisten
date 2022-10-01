@@ -38,22 +38,19 @@ https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt <br>
 
 
-
 ## More exotic websites
 
 With the help of this blocklist, some exotic advertising domains are blocked.
 These providers are characterized by "Windows Needs Updates" pop-ups and unserious things
 
-https://github.com/TheBlackDragon4/pihole-blocklisten/blob/main/Sonstiges/exotischer.txt <br>
-
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Sonstiges/exotischer.txt <br>
 
 
 ## FireTV Block Ads
 
 Using this block list to block ads from an Amazon Fire TV Stick
 
-https://github.com/TheBlackDragon4/Sonstiges/firetv.txt <br>
-
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Sonstiges/firetv.txt <br>
 
 
 ## Tracking of different telemetry lists
@@ -121,7 +118,7 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt <br>
 
 This blocklist blocks streaming services that supposedly provide movies after you have registered. A few days later, a payment demand follows with reference to debt collection companies. This is so legally but not tenable.
 
-https://github.com/TheBlackDragon4/Sonstiges/fakestreaming.txt <br>
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Sonstiges/fakestreaming.txt <br>
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming <br>
 
 
@@ -150,7 +147,7 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming 
 
 ## Porno Blocklisten
 
-https://github.com/TheBlackDragon4/Jugendschutz/porno.txt <br>
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Jugendschutz/porno.txt <br>
 
 
 ## Fake-Science
@@ -180,7 +177,7 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt <br
 
 ## Social media advertising block lists
 
-https://github.com/TheBlackDragon4/Jugendschutz/porno.txt <br>
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Jugendschutz/porno.txt <br>
 
 
 # Whitelists 

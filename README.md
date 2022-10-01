@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlis
 With the help of this blocklist, some exotic advertising domains are blocked.
 These providers are characterized by "Windows Needs Updates" pop-ups and unserious things
 
-https://github.com/TheBlackDragon4/pihole-blocklisten/blob/main/Sonstiges/exotischer.txt
+https://github.com/TheBlackDragon4/pihole-blocklisten/blob/main/Sonstiges/exotischer.txt <br>
 
 
 
@@ -52,141 +52,141 @@ https://github.com/TheBlackDragon4/pihole-blocklisten/blob/main/Sonstiges/exotis
 
 Using this block list to block ads from an Amazon Fire TV Stick
 
-https://github.com/TheBlackDragon4/Sonstiges/firetv.txt
+https://github.com/TheBlackDragon4/Sonstiges/firetv.txt <br>
 
 
 
 ## Tracking of different telemetry lists
 
-https://v.firebog.net/hosts/Easyprivacy.txt
-https://v.firebog.net/hosts/Prigent-Ads.txt
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+https://v.firebog.net/hosts/Easyprivacy.txt <br>
+https://v.firebog.net/hosts/Prigent-Ads.txt <br>
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt <br>
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts <br>
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt <br>
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt <br>
+https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt <br>
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt <br>
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt <br>
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt <br>
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt <br>
 
 
 ## Win10Telemetry
 
 The Win10Telemetry list blocks the domains to which Windows 10 sends its data. It ensures that Microsoft receives less data about you. And without any noticeable restrictions. The list is provided by the YouTube channel SemperVideo.
 
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry <br>
 
 
 ## MS Office Telemetry
 
 This list blocks the telemetry domains of Microsoft Office.
 
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry <br>
 
 
 ## Samsung Telemetry
 
 The Samsungblocklist blocks domains that are used to retrieve statistics, for example. It is therefore comparable with the Win10Telemetry list.
 
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung <br>
 
 
 ## Suspicious pages
 
 This block list is used to block suspicious pages that pretend to be another website or that have been detected with viruses.
 
-https://www.technoy.de/lists/Suspicious.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-https://v.firebog.net/hosts/static/w3kbl.txt
-https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-https://someonewhocares.org/hosts/zero/hosts
-https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-https://winhelp2002.mvps.org/hosts.txt
-https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-https://v.firebog.net/hosts/BillStearns.txt
-https://hostsfile.org/Downloads/hosts.txt
-https://www.joewein.net/dl/bl/dom-bl-base.txt
-https://v.firebog.net/hosts/Kowabit.txt
-https://adblock.mahakala.is
-https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-https://raw.githubusercontent.com/CamelCase11/UnifiedHosts/master/hosts.all
-https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
-https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt
+https://www.technoy.de/lists/Suspicious.txt <br> 
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt <br>
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts <br>
+https://v.firebog.net/hosts/static/w3kbl.txt <br>
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt <br>
+https://someonewhocares.org/hosts/zero/hosts <br>
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts <br>
+https://winhelp2002.mvps.org/hosts.txt <br>
+https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt <br>
+https://v.firebog.net/hosts/BillStearns.txt <br>
+https://hostsfile.org/Downloads/hosts.txt <br>
+https://www.joewein.net/dl/bl/dom-bl-base.txt <br>
+https://v.firebog.net/hosts/Kowabit.txt <br>
+https://adblock.mahakala.is <br>
+https://www.stopforumspam.com/downloads/toxic_domains_whole.txt <br>
+https://raw.githubusercontent.com/CamelCase11/UnifiedHosts/master/hosts.all <br>
+https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts <br>
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list <br>
+https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt <br>
 
 
 ## Fake streaming and debt collection
 
 This blocklist blocks streaming services that supposedly provide movies after you have registered. A few days later, a payment demand follows with reference to debt collection companies. This is so legally but not tenable.
 
-https://github.com/TheBlackDragon4/Sonstiges/fakestreaming.txt
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
+https://github.com/TheBlackDragon4/Sonstiges/fakestreaming.txt <br>
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming <br>
 
 
 
 ## Malware Blocklists
 
-https://www.technoy.de/lists/malware2.txt
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomainlist.com/list.txt
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
+https://www.technoy.de/lists/malware2.txt <br>
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware <br>
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomainlist.com/list.txt <br>
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt <br>
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt <br>
+https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt <br>
 
 
 ## Ransomeware
 
-https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt <br>
 
 
 ## Streaming Blocklisten
 
 The Streaming List blocks dubious streaming services, including subscription traps.
 
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming <br>
 
 
 ## Porno Blocklisten
 
-https://github.com/TheBlackDragon4/Jugendschutz/porno.txt
+https://github.com/TheBlackDragon4/Jugendschutz/porno.txt <br>
 
 
 ## Fake-Science
 
 Under the Fake Science list, websites of Predatory Publishers a.k.a Fake Science are blocked. Predatory publishing is a fraudulent business model used by certain open access publishers. 
 
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science <br>
 
 
 ## CORONA Blocklisten
 
 This blocklist blocks some pages that contain, for example, false information.
 
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails <br>
 
 
 ## Phishing-Angriffe
 
 Phising is the attempt to obtain data by forging a registration page, for example. Known phishing domains are blocked with this list.
 
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
-https://phishing.army/download/phishing_army_blocklist_extended.txt
-http://phishing.mailscanner.info/phishing.bad.sites.conf
-https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe <br>
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt <br>
+https://phishing.army/download/phishing_army_blocklist_extended.txt <br>
+http://phishing.mailscanner.info/phishing.bad.sites.conf <br>
+https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt <br>
 
 
 ## Social media advertising block lists
 
-https://github.com/TheBlackDragon4/Jugendschutz/porno.txt
+https://github.com/TheBlackDragon4/Jugendschutz/porno.txt <br>
 
 
 # Whitelists 
 
-https://www.technoy.de/lists/whitelist.txt
-https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Whitelisten/fullwhitelist.txt
-https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Whitelisten/personalwhitelist.txt
+https://www.technoy.de/lists/whitelist.txt <br>
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Whitelisten/fullwhitelist.txt <br>
+https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Whitelisten/personalwhitelist.txt <br>
 
 

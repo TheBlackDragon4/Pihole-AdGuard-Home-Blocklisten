@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlis
 Mithilfe dieser Blockliste werden einige exotischern Werbe Domains blockiert.
 Diese Anbieter zeichnen sich durch "Windows Needs Updates" Popups und Unseriösen dingen aus
 
-https://github.com/TheBlackDragon4/Sonstiges/exotischer.txt
+https://github.com/TheBlackDragon4/pihole-blocklisten/blob/main/Sonstiges/exotischer.txt
 
 
 

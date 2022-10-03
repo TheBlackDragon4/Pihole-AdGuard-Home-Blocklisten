@@ -171,7 +171,6 @@ Phising is the attempt to obtain data by forging a registration page, for exampl
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe <br>
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt <br>
 https://phishing.army/download/phishing_army_blocklist_extended.txt <br>
-http://phishing.mailscanner.info/phishing.bad.sites.conf <br>
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt <br>
 
 

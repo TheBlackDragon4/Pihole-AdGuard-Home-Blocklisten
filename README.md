@@ -105,8 +105,6 @@ https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt <
 https://v.firebog.net/hosts/BillStearns.txt <br>
 https://hostsfile.org/Downloads/hosts.txt <br>
 https://www.joewein.net/dl/bl/dom-bl-base.txt <br>
-https://v.firebog.net/hosts/Kowabit.txt <br>
-https://adblock.mahakala.is <br>
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt <br>
 https://raw.githubusercontent.com/CamelCase11/UnifiedHosts/master/hosts.all <br>
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts <br>

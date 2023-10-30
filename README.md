@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlis
 With the help of this blocklist, some exotic advertising domains are blocked.
 These providers are characterized by "Windows Needs Updates" pop-ups and unserious things
 
-https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Sonstiges/exotischer.txt <br>
+https://raw.githubusercontent.com/TheBlackDragon4/Pihole-AdGuard-Home-Blocklisten/main/Sonstiges/exotischer.txt <br>
 
 
 ## FireTV Block Ads

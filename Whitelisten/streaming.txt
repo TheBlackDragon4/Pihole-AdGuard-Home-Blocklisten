@@ -1,0 +1,16 @@
+#Pi-Hole whitelists for certain streaming services and websites
+
+# Netflix
+www.netflix.com
+
+# Spotify
+spclient.wg.spotify.com
+apresolve.spotify.com
+open.spotify.com		
+www.spotify.com	
+
+# Udemy
+www.udemy.com	
+
+
+

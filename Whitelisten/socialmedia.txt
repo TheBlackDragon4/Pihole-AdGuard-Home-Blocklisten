@@ -1,0 +1,7 @@
+#Pi-Hole whitelists for certain social media and websites
+
+www.instagram.com
+skype.com	
+union-investment.de	
+
+

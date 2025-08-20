@@ -1,13 +1,18 @@
 
-# pihole-blocklists
-Custom PiHole blocklists
+# pihole- and AdGuard-Home-blocklists
+Custom PiHole and AdGuard-Home-blocklists
 
 I create this GitHub entry to share my new knowledge with you. 
 Here I do not claim to be complete.
 
 Here you can also find an overview of useful blocklists for the Pi-hole, which can be installed additionally. Under the descriptions you will find the URLs that must be included under blocklist. There is a good selection so that everyone can pick out what he needs.
 
+## Note FritzBox settings 
 
+1. Navigate to the `IPv4-settings` in the `Network/Network Settings` tab
+2. Ensure that the `Local DNS Server` is the `IP-address` of the PiHole or AdGuard-Home device 
+3. Navigate to the `DNS-Server` tab under `Internet/Access Data`
+4. Ensure that the `DNSv4 Server` and there are both `Preferred DNSv4 Server` and `Alternate DNSv4 Server` is the `IP-Address` of the PiHole or AdGuard-Home device
 
 ## Standard blocklists for PiHole
 
@@ -20,7 +25,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt <br>
 
 https://abp.oisd.nl/ <br>
 https://raw.githubusercontent.com/TheBlackDragon4/Pihole-AdGuard-Home-Blocklisten/refs/heads/main/Universal-Blocklist/oisd_big_abp.txt <br>
-
 
 ## Advertisements
 
@@ -42,7 +46,6 @@ https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt <br>
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt <br>
 
-
 ## More exotic websites
 
 With the help of this blocklist, some exotic advertising domains are blocked.
@@ -50,13 +53,11 @@ These providers are characterized by "Windows Needs Updates" pop-ups and unserio
 
 https://raw.githubusercontent.com/TheBlackDragon4/Pihole-AdGuard-Home-Blocklisten/main/Sonstiges/exotischer.txt <br>
 
-
 ## FireTV Block Ads
 
 Using this block list to block ads from an Amazon Fire TV Stick
 
 https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Sonstiges/firetv.txt <br>
-
 
 ## Tracking of different telemetry lists
 
@@ -72,13 +73,11 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracki
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt <br>
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt <br>
 
-
 ## Win10Telemetry
 
 The Win10Telemetry list blocks the domains to which Windows 10 sends its data. It ensures that Microsoft receives less data about you. And without any noticeable restrictions. The list is provided by the YouTube channel SemperVideo.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry <br>
-
 
 ## MS Office Telemetry
 
@@ -86,13 +85,11 @@ This list blocks the telemetry domains of Microsoft Office.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry <br>
 
-
 ## Samsung Telemetry
 
 The Samsungblocklist blocks domains that are used to retrieve statistics, for example. It is therefore comparable with the Win10Telemetry list.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung <br>
-
 
 ## Suspicious pages
 
@@ -116,15 +113,12 @@ https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts <b
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list <br>
 https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt <br>
 
-
 ## Fake streaming and debt collection
 
 This blocklist blocks streaming services that supposedly provide movies after you have registered. A few days later, a payment demand follows with reference to debt collection companies. This is so legally but not tenable.
 
 https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Sonstiges/fakestreaming.txt <br>
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming <br>
-
-
 
 ## Malware Blocklists
 
@@ -135,11 +129,9 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt <br
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt <br>
 https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt <br>
 
-
 ## Ransomeware
 
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt <br>
-
 
 ## Streaming Blocklisten
 
@@ -147,11 +139,9 @@ The Streaming List blocks dubious streaming services, including subscription tra
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming <br>
 
-
 ## Porno Blocklisten
 
 https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Jugendschutz/porno.txt <br>
-
 
 ## Fake-Science
 
@@ -159,13 +149,11 @@ Under the Fake Science list, websites of Predatory Publishers a.k.a Fake Science
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science <br>
 
-
 ## CORONA Blocklisten
 
 This blocklist blocks some pages that contain, for example, false information.
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails <br>
-
 
 ## Phishing-Angriffe
 
@@ -176,16 +164,13 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detec
 https://phishing.army/download/phishing_army_blocklist_extended.txt <br>
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt <br>
 
-
 ## Social media advertising block lists
 
 https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Jugendschutz/porno.txt <br>
-
 
 # Whitelists 
 
 https://www.technoy.de/lists/whitelist.txt <br>
 https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Whitelisten/fullwhitelist.txt <br>
 https://raw.githubusercontent.com/TheBlackDragon4/pihole-blocklisten/main/Whitelisten/personalwhitelist.txt <br>
-
 
